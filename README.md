@@ -12,8 +12,6 @@ This repository is a portfolio of my cloud learning journey. It includes:
 - **IT Asset Management (ITAM)** workflows and dashboards adapted for cloud environments  
 - **Study resources** (cheat sheets, diagrams, and prep materials)  
 
--
-
 
 ## 🎯 Goals
 - Strengthen cloud fundamentals (AWS services, CLI, IAM, networking)  
