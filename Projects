@@ -1,0 +1,11 @@
+# AWS S3 Static Website Project
+
+## 🎯 Goal
+Host a simple static website on Amazon S3 to practice storage, permissions, and hosting.
+
+## 🔧 Steps
+1. Created an S3 bucket called `cloudjourney-website`.
+2. Enabled static website hosting.
+3. Uploaded `index.html`.
+4. Configured bucket policy for public access.
+5. Tested URL to confirm website is live.
